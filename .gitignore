@@ -20,3 +20,7 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+catego
+.categolj2*
+.DS_Store
+.idea
